@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\obj\Debug\netcoreapp3.0\ödev 2.dönem 1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\obj\Debug\netcoreapp3.0\ödev 2.dönem 1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\obj\Debug\netcoreapp3.0\ödev 2.dönem 1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\bin\Debug\netcoreapp3.0\ödev 2.dönem 1.exe
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\bin\Debug\netcoreapp3.0\ödev 2.dönem 1.deps.json
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\bin\Debug\netcoreapp3.0\ödev 2.dönem 1.runtimeconfig.json
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\bin\Debug\netcoreapp3.0\ödev 2.dönem 1.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\bin\Debug\netcoreapp3.0\ödev 2.dönem 1.dll
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\bin\Debug\netcoreapp3.0\ödev 2.dönem 1.pdb
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\obj\Debug\netcoreapp3.0\ödev 2.dönem 1.dll
+C:\Users\Asus\source\repos\ödev 2.dönem 1\ödev 2.dönem 1\obj\Debug\netcoreapp3.0\ödev 2.dönem 1.pdb
